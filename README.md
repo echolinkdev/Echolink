@@ -1,36 +1,39 @@
-# EchoLink
+# EchoLink 📼🧠
 
-**EchoLink** is a decentralized emotional memory vault built on the lightning-fast **Somnia EVM Layer 1 blockchain**.
+**EchoLink** is a decentralized memory vault built for the blockchain — designed to preserve life's most important moments permanently, privately, and emotionally.
 
-## 🌟 What is EchoLink?
+> “Memories fade. Echoes last forever.”
 
-EchoLink allows users to preserve their most cherished life moments—text, images, voice—by transforming them into beautiful, AI-generated “Echoes” and storing them immutably on-chain.
+---
 
-## ✨ Key Features
+## 🌟 Vision
+In a world where digital content is fast and fleeting, EchoLink uses blockchain to help users preserve their stories forever. Whether it’s a journal entry, voice memo, or personal milestone, every memory is yours to store, own, and relive.
 
-- AI-generated emotional content (poetry, audio echoes, visuals)
-- On-chain storage using Somnia’s low-cost, high-speed tech
-- NFT minting for unique memories
-- Public/Private vaults for memory sharing
-- Real-time memory interaction
+---
 
-## 📦 Folders
+## 🛠 Project Status
+- Concept: ✅ Complete
+- Smart Contract Draft: ✅ Added
+- Frontend UI: 🟡 In Progress
+- Deployment: 🚧 Coming soon
 
-- `contracts/` - Smart contracts for storing & minting Echoes
-- `frontend/` - The dApp interface (web/mobile)
-- `ai-engine/` - Scripts and models for emotion-based generation
-- `docs/` - Documentation and whitepaper
-- `utils/` - Helper scripts
+---
 
-## 🚀 Powered By
+## 🧠 Built By
+**Miracle Obazee**  
+Solo founder — 18 years old  
+Driven by purpose, passion, and privacy.
 
-- Somnia Blockchain (400,000 TPS, sub-second finality)
-- AI for text, audio, and emotion generation
-- Solidity, JavaScript, Python
+---
 
-## 👤 Author
+## 📬 Contact
+- **Email:** echolinkdev3@gmail.com  
+- **Twitter/X:** [@__incognito_One](https://x.com/__incognito_One)  
+- **Telegram:** [@Miraclezzzaa1](https://t.me/Miraclezzzaa1)
 
-Miracle Obazee  
-miracleob088@gmail.com
+---
 
-> “Memories fade. Echoes live forever.”
+## 🔗 GitHub Repo
+Welcome to the official EchoLink project repository.
+
+Stay tuned — Echoes are coming soon.
